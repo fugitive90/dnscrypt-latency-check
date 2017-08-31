@@ -1,6 +1,7 @@
-# Synopsis
+# Description 
 
 Fetch n number of the Dnscrypt servers with lowest latencies, and outputs them.
+Currently IPv6 is skipped by default also with servers that logs queries.
 
 Dnscrypt home page:
 
